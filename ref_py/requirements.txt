@@ -1,0 +1,2 @@
+pycrypto        # https://pypi.org/project/pycrypto/
+pycryptodome    # https://pypi.org/project/pycryptodome/
